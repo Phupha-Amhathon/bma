@@ -184,7 +184,7 @@ for car_no, info in route_master.items():
         "operation_day": list(info['op_days']),
         "edge_sequence": route_info['edge_sequence']
     })
-    
+
 # =========================================================
 # STEP 4: บันทึกข้อมูลและส่งออกไฟล์ JSON
 # =========================================================
@@ -193,15 +193,15 @@ final_edges = list(edges_map.values())
 final_vehicles = list(vehicles_map.values())
 final_workers = [{"worker_id": w["worker_id"], "name": name, "district": w["district"]} for name, w in workers_map.items()]
 
-with open("1_nodes.json", "w", encoding="utf-8") as f:
+with open("data/1_nodes.json", "w", encoding="utf-8") as f:
     json.dump(final_nodes, f, ensure_ascii=False, indent=2)
-with open("1_edges.json", "w", encoding="utf-8") as f:
+with open("data/1_edges.json", "w", encoding="utf-8") as f:
     json.dump(final_edges, f, ensure_ascii=False, indent=2)
-with open("2_vehicles.json", "w", encoding="utf-8") as f:
+with open("data/2_vehicles.json", "w", encoding="utf-8") as f:
     json.dump(final_vehicles, f, ensure_ascii=False, indent=2)
-with open("2_workers.json", "w", encoding="utf-8") as f:
+with open("data/2_workers.json", "w", encoding="utf-8") as f:
     json.dump(final_workers, f, ensure_ascii=False, indent=2)
-with open("3_transferred_routes.json", "w", encoding="utf-8") as f:
+with open("data/3_transferred_routes.json", "w", encoding="utf-8") as f:
     json.dump(final_routes, f, ensure_ascii=False, indent=2)
 
 print("========================================")
