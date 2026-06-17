@@ -1,0 +1,6467 @@
+[
+  {
+    "vehicle_id": "67-8272",
+    "car_side_number": "3122095",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-7467",
+    "car_side_number": "4652082",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7722",
+    "car_side_number": "4751332",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-5647",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-3042",
+    "car_side_number": "3150099",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-9816",
+    "car_side_number": "1552293",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-5645",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-5546",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-2204",
+    "car_side_number": "2720014",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-5653",
+    "car_side_number": "0552018",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-5604",
+    "car_side_number": "4451088",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-9771",
+    "car_side_number": "",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-6592",
+    "car_side_number": "1552075",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7473",
+    "car_side_number": "0452088",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7611",
+    "car_side_number": "3422045",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-7604",
+    "car_side_number": "5022038",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7280",
+    "car_side_number": "3951269",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3037",
+    "car_side_number": "2650094",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7852",
+    "car_side_number": "3551385",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3083",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-5591",
+    "car_side_number": "3851076",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-8233",
+    "car_side_number": "1222088",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7012",
+    "car_side_number": "0251143",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "67-7586",
+    "car_side_number": "1622020",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-7306",
+    "car_side_number": "0951295",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-7967",
+    "car_side_number": "3752148",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8246",
+    "car_side_number": "4222114",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3038",
+    "car_side_number": "2650095",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7249",
+    "car_side_number": "3451238",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7860",
+    "car_side_number": "2151392",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-7615",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-7964",
+    "car_side_number": "3252145",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-2203",
+    "car_side_number": "2720013",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9012",
+    "car_side_number": "1952192",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7780",
+    "car_side_number": "2351360",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-2389",
+    "car_side_number": "2750057",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7243",
+    "car_side_number": "3451232",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-5566",
+    "car_side_number": "1351051",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-3052",
+    "car_side_number": "3150108",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-3101",
+    "car_side_number": "2650154",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-3070",
+    "car_side_number": "0750124",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-8321",
+    "car_side_number": "5122172",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7815",
+    "car_side_number": "4051376",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-5539",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "65-7234",
+    "car_side_number": "4051223",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-3045",
+    "car_side_number": "3150101",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-7009",
+    "car_side_number": "0451140",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-5568",
+    "car_side_number": "1351053",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-7241",
+    "car_side_number": "3451230",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-2983",
+    "car_side_number": "0520023",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7868",
+    "car_side_number": "4051400",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-7637",
+    "car_side_number": "4422071",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-7301",
+    "car_side_number": "0951290",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-7500",
+    "car_side_number": "0652115",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7206",
+    "car_side_number": "3351195",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7247",
+    "car_side_number": "3451236",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7023",
+    "car_side_number": "0151154",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7252",
+    "car_side_number": "1051241",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-7764",
+    "car_side_number": "2051349",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-5367",
+    "car_side_number": "4621085",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-6562",
+    "car_side_number": "4952046",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "65-5543",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-9000",
+    "car_side_number": "1752180",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-7313",
+    "car_side_number": "5151302",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7256",
+    "car_side_number": "1051245",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-8994",
+    "car_side_number": "4352176",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-3014",
+    "car_side_number": "1820051",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-7792",
+    "car_side_number": "1951372",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5594",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7221",
+    "car_side_number": "3351210",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5592",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-8256",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7779",
+    "car_side_number": "4851359",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-2201",
+    "car_side_number": "2720011",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-2355",
+    "car_side_number": "1250024",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-9743",
+    "car_side_number": "0652228",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-3015",
+    "car_side_number": "1220052",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5533",
+    "car_side_number": "1151020",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-5588",
+    "car_side_number": "3851073",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7714",
+    "car_side_number": "4751325",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9793",
+    "car_side_number": "5152274",
+    "district": "Department of Environment, Bangkok Metropolitan Administration"
+  },
+  {
+    "vehicle_id": "65-5547",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-7629",
+    "car_side_number": "2722063",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7850",
+    "car_side_number": "5051383",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-5542",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-5664",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-6557",
+    "car_side_number": "4652041",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5376",
+    "car_side_number": "3721093",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-3260",
+    "car_side_number": "4909028",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "65-7026",
+    "car_side_number": "0151157",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-4748",
+    "car_side_number": "4021034",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-7632",
+    "car_side_number": "4522066",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-2368",
+    "car_side_number": "4650037",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-8276",
+    "car_side_number": "0422099",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-9004",
+    "car_side_number": "1752184",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-5641",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7237",
+    "car_side_number": "",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-5373",
+    "car_side_number": "3721091",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-6587",
+    "car_side_number": "1452070",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2334",
+    "car_side_number": "2550003",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7757",
+    "car_side_number": "4051343",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-2386",
+    "car_side_number": "2750054",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9030",
+    "car_side_number": "5152210",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7219",
+    "car_side_number": "3351208",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5603",
+    "car_side_number": "4451087",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-5529",
+    "car_side_number": "1151016",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-5534",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "65-4753",
+    "car_side_number": "5021039",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-5365",
+    "car_side_number": "4621083",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-2193",
+    "car_side_number": "2620003",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7308",
+    "car_side_number": "0951297",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-3127",
+    "car_side_number": "3750177",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7960",
+    "car_side_number": "3752141",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8331",
+    "car_side_number": "4022182",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-5389",
+    "car_side_number": "4721106",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9760",
+    "car_side_number": "5152245",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3050",
+    "car_side_number": "3150106",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-7261",
+    "car_side_number": "1051250",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-7857",
+    "car_side_number": "2151389",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-5562",
+    "car_side_number": "1351047",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-7621",
+    "car_side_number": "1322055",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-7623",
+    "car_side_number": "1322057",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-7254",
+    "car_side_number": "1051243",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-9763",
+    "car_side_number": "2952248",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-2370",
+    "car_side_number": "4650039",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5443",
+    "car_side_number": "0921156",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-7293",
+    "car_side_number": "3951282",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-2387",
+    "car_side_number": "2750055",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9769",
+    "car_side_number": "0352254",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-8262",
+    "car_side_number": "1522132",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-4771",
+    "car_side_number": "",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-5634",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-8257",
+    "car_side_number": "4422127",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-5537",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-3008",
+    "car_side_number": "4620045",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-2388",
+    "car_side_number": "2750056",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9776",
+    "car_side_number": "5052261",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-5602",
+    "car_side_number": "4451086",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-8300",
+    "car_side_number": "1922149",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7010",
+    "car_side_number": "0451141",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-2336",
+    "car_side_number": "2550005",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-6992",
+    "car_side_number": "2351124",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-3057",
+    "car_side_number": "1850113",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-7790",
+    "car_side_number": "1951370",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-5675",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-8304",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-3095",
+    "car_side_number": "4650149",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-7987",
+    "car_side_number": "",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5413",
+    "car_side_number": "4521129",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7634",
+    "car_side_number": "3922068",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-5514",
+    "car_side_number": "3351001",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-3097",
+    "car_side_number": "4650151",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7721",
+    "car_side_number": "4751331",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-3007",
+    "car_side_number": "3120044",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5396",
+    "car_side_number": "3421113",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-3031",
+    "car_side_number": "2650089",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-3096",
+    "car_side_number": "4650150",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-2390",
+    "car_side_number": "2750058",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7753",
+    "car_side_number": "3451339",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-3016",
+    "car_side_number": "3120053",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-2414",
+    "car_side_number": "4250074",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-9740",
+    "car_side_number": "2352225",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5536",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "65-5404",
+    "car_side_number": "1021121",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-7719",
+    "car_side_number": "4751329",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9729",
+    "car_side_number": "4352214",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-5393",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-3107",
+    "car_side_number": "1250159",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7302",
+    "car_side_number": "0951291",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-7296",
+    "car_side_number": "3451285",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-7597",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-8253",
+    "car_side_number": "1322121",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-8268",
+    "car_side_number": "3122091",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5400",
+    "car_side_number": "3421117",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-3046",
+    "car_side_number": "3150102",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-3041",
+    "car_side_number": "3150098",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5587",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-2385",
+    "car_side_number": "2750053",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-2356",
+    "car_side_number": "1250025",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-5659",
+    "car_side_number": "0552024",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7775",
+    "car_side_number": "4851356",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7311",
+    "car_side_number": "0951300",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-7626",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-7606",
+    "car_side_number": "0422040",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8274",
+    "car_side_number": "0422097",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-7784",
+    "car_side_number": "2351364",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-6574",
+    "car_side_number": "1952058",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-5420",
+    "car_side_number": "3921136",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-9024",
+    "car_side_number": "5152204",
+    "district": "Department of Environment, Bangkok Metropolitan Administration"
+  },
+  {
+    "vehicle_id": "67-9778",
+    "car_side_number": "4952262",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "65-7778",
+    "car_side_number": "4851358",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7231",
+    "car_side_number": "3751220",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8983",
+    "car_side_number": "4652168",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-6567",
+    "car_side_number": "4952051",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-8997",
+    "car_side_number": "1752179",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-2349",
+    "car_side_number": "1250018",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-8309",
+    "car_side_number": "0222158",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "67-2191",
+    "car_side_number": "2620001",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9811",
+    "car_side_number": "1552288",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-7028",
+    "car_side_number": "0151159",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-2399",
+    "car_side_number": "4250065",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-7985",
+    "car_side_number": "1452165",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2371",
+    "car_side_number": "4650040",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5427",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-8225",
+    "car_side_number": "4622080",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7245",
+    "car_side_number": "3451234",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-6590",
+    "car_side_number": "1452073",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-8297",
+    "car_side_number": "1622146",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-5440",
+    "car_side_number": "0921154",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-9728",
+    "car_side_number": "4352213",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-7052",
+    "car_side_number": "0351183",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "65-5437",
+    "car_side_number": "0921152",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-5403",
+    "car_side_number": "1021120",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-5442",
+    "car_side_number": "0921155",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-5366",
+    "car_side_number": "4621084",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-8275",
+    "car_side_number": "0422098",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8294",
+    "car_side_number": "1622143",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-7481",
+    "car_side_number": "0452096",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8991",
+    "car_side_number": "4352173",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-5387",
+    "car_side_number": "4721104",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-8263",
+    "car_side_number": "1522133",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7472",
+    "car_side_number": "2652087",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-7502",
+    "car_side_number": "0652117",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-5364",
+    "car_side_number": "3321082",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-6581",
+    "car_side_number": "0552064",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7259",
+    "car_side_number": "1051248",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-9732",
+    "car_side_number": "4352217",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-8335",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-7974",
+    "car_side_number": "3652155",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-2395",
+    "car_side_number": "2750062",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-7581",
+    "car_side_number": "",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-9730",
+    "car_side_number": "4352215",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-7713",
+    "car_side_number": "1151324",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-5674",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-5558",
+    "car_side_number": "1351043",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-7303",
+    "car_side_number": "0951292",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-2202",
+    "car_side_number": "2720012",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7043",
+    "car_side_number": "2151174",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-5642",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-2426",
+    "car_side_number": "2650084",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5560",
+    "car_side_number": "1351045",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-5563",
+    "car_side_number": "1351048",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-5565",
+    "car_side_number": "1351050",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-8328",
+    "car_side_number": "5122179",
+    "district": "Department of Environment, Bangkok Metropolitan Administration"
+  },
+  {
+    "vehicle_id": "65-7728",
+    "car_side_number": "4751336",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-5541",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-5672",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-2200",
+    "car_side_number": "2720010",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-7610",
+    "car_side_number": "0522044",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7260",
+    "car_side_number": "1051249",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-2366",
+    "car_side_number": "1250035",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7013",
+    "car_side_number": "0251144",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-7277",
+    "car_side_number": "3951266",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-5601",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-9812",
+    "car_side_number": "1552289",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-6596",
+    "car_side_number": "1552078",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-6593",
+    "car_side_number": "1552076",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-9761",
+    "car_side_number": "2952246",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-7640",
+    "car_side_number": "2922074",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-4731",
+    "car_side_number": "4821018",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7866",
+    "car_side_number": "4051398",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-3025",
+    "car_side_number": "4220062",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3039",
+    "car_side_number": "3150096",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7793",
+    "car_side_number": "1951373",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9026",
+    "car_side_number": "5152206",
+    "district": "Department of Environment, Bangkok Metropolitan Administration"
+  },
+  {
+    "vehicle_id": "65-7715",
+    "car_side_number": "4751326",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9801",
+    "car_side_number": "1052279",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-7469",
+    "car_side_number": "2652083",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-5665",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-8313",
+    "car_side_number": "0122162",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-5402",
+    "car_side_number": "1021119",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-5613",
+    "car_side_number": "1351044",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-8295",
+    "car_side_number": "1622144",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-2364",
+    "car_side_number": "1250033",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7048",
+    "car_side_number": "2151179",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-5229",
+    "car_side_number": "1981015",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-8284",
+    "car_side_number": "2922124",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-5535",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-2367",
+    "car_side_number": "4650036",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7253",
+    "car_side_number": "1051242",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-5676",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-7762",
+    "car_side_number": "2051348",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-3053",
+    "car_side_number": "3150109",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-7486",
+    "car_side_number": "0452101",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-7020",
+    "car_side_number": "0151151",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7016",
+    "car_side_number": "0251147",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "67-9009",
+    "car_side_number": "1752189",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-7038",
+    "car_side_number": "0151169",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7232",
+    "car_side_number": "2351221",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9739",
+    "car_side_number": "2352224",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9008",
+    "car_side_number": "1752188",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-9005",
+    "car_side_number": "1752185",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-5638",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7040",
+    "car_side_number": "0151171",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7057",
+    "car_side_number": "2251188",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-5644",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7776",
+    "car_side_number": "4851357",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7229",
+    "car_side_number": "3751218",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7605",
+    "car_side_number": "3522039",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-5251",
+    "car_side_number": "0181037",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-9002",
+    "car_side_number": "1752182",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-2428",
+    "car_side_number": "2650086",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9013",
+    "car_side_number": "2352193",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5515",
+    "car_side_number": "3351002",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-8325",
+    "car_side_number": "2022176",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-9001",
+    "car_side_number": "1752181",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-8269",
+    "car_side_number": "3122092",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-7239",
+    "car_side_number": "0451228",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-7033",
+    "car_side_number": "0151164",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-9006",
+    "car_side_number": "1752186",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-2209",
+    "car_side_number": "4520019",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7268",
+    "car_side_number": "1451257",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-7242",
+    "car_side_number": "3451231",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7031",
+    "car_side_number": "0151162",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7289",
+    "car_side_number": "3951278",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-4726",
+    "car_side_number": "2021013",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-7255",
+    "car_side_number": "1051244",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-7618",
+    "car_side_number": "0122052",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-3297",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7240",
+    "car_side_number": "0451229",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-7880",
+    "car_side_number": "4051411",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7034",
+    "car_side_number": "0151165",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-3019",
+    "car_side_number": "3120056",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-9802",
+    "car_side_number": "1052280",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-7980",
+    "car_side_number": "3652160",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-5570",
+    "car_side_number": "4551055",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-5252",
+    "car_side_number": "0181038",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-2335",
+    "car_side_number": "2550004",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-5593",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7286",
+    "car_side_number": "3951275",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3005",
+    "car_side_number": "3120042",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-6966",
+    "car_side_number": "2051100",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-7285",
+    "car_side_number": "3951274",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-5640",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7014",
+    "car_side_number": "0251145",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-7022",
+    "car_side_number": "0151153",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-8990",
+    "car_side_number": "4352172",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-5584",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-4724",
+    "car_side_number": "",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-5540",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "65-6984",
+    "car_side_number": "1951117",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-2338",
+    "car_side_number": "2550007",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7864",
+    "car_side_number": "5051396",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7246",
+    "car_side_number": "3451235",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7859",
+    "car_side_number": "2151391",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-7505",
+    "car_side_number": "0952120",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-5391",
+    "car_side_number": "4721108",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-7257",
+    "car_side_number": "1051246",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-5358",
+    "car_side_number": "3321076",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5428",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-7941",
+    "car_side_number": "3252124",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5361",
+    "car_side_number": "3321079",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5553",
+    "car_side_number": "0551039",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-9733",
+    "car_side_number": "2652218",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-8238",
+    "car_side_number": "1422108",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-8267",
+    "car_side_number": "1622140",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-4738",
+    "car_side_number": "1821025",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-7628",
+    "car_side_number": "1422062",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2393",
+    "car_side_number": "2750061",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-5646",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7862",
+    "car_side_number": "2151394",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-5395",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-5639",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-7766",
+    "car_side_number": "2351350",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7855",
+    "car_side_number": "5051388",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3018",
+    "car_side_number": "3120055",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5394",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-9753",
+    "car_side_number": "1452238",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-7971",
+    "car_side_number": "3652152",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-2423",
+    "car_side_number": "2650082",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-7970",
+    "car_side_number": "3652151",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-9746",
+    "car_side_number": "3752231",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-7210",
+    "car_side_number": "3351199",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7036",
+    "car_side_number": "0151167",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7047",
+    "car_side_number": "2151178",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-7269",
+    "car_side_number": "1451258",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-5397",
+    "car_side_number": "3421114",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-7572",
+    "car_side_number": "3622006",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-7617",
+    "car_side_number": "0122051",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7211",
+    "car_side_number": "3351200",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7212",
+    "car_side_number": "3351201",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-3006",
+    "car_side_number": "3120043",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5545",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "65-5401",
+    "car_side_number": "3421118",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-7602",
+    "car_side_number": "3122036",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-7214",
+    "car_side_number": "3351203",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-7482",
+    "car_side_number": "0452097",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7631",
+    "car_side_number": "2722065",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-3088",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-7583",
+    "car_side_number": "",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-2342",
+    "car_side_number": "2550011",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-9022",
+    "car_side_number": "3952202",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-5596",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-5385",
+    "car_side_number": "1121102",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-6595",
+    "car_side_number": "1552077",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-6985",
+    "car_side_number": "1951118",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7783",
+    "car_side_number": "2351363",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7044",
+    "car_side_number": "2151175",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-7042",
+    "car_side_number": "2151173",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-4722",
+    "car_side_number": "3621010",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-7045",
+    "car_side_number": "2151176",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-9025",
+    "car_side_number": "",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-3114",
+    "car_side_number": "3950165",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-7588",
+    "car_side_number": "1922022",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-2331",
+    "car_side_number": "2550001",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-5548",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-2391",
+    "car_side_number": "2750059",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-4728",
+    "car_side_number": "4821015",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7263",
+    "car_side_number": "1051252",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-7595",
+    "car_side_number": "1222029",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-7497",
+    "car_side_number": "0652112",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7032",
+    "car_side_number": "0151163",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7292",
+    "car_side_number": "3951281",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7314",
+    "car_side_number": "2151303",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-7487",
+    "car_side_number": "0452102",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-4720",
+    "car_side_number": "3621008",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-4745",
+    "car_side_number": "4021031",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8292",
+    "car_side_number": "1622141",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-7858",
+    "car_side_number": "2151390",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-9736",
+    "car_side_number": "2652221",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5378",
+    "car_side_number": "3721095",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8291",
+    "car_side_number": "3122090",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-5669",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-6598",
+    "car_side_number": "1552080",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7504",
+    "car_side_number": "4452119",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-5538",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-8260",
+    "car_side_number": "4422130",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-6580",
+    "car_side_number": "0552063",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7217",
+    "car_side_number": "3351206",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5590",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-8259",
+    "car_side_number": "4422129",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-3117",
+    "car_side_number": "4250168",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3085",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-5380",
+    "car_side_number": "1821097",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-7267",
+    "car_side_number": "1451256",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-7209",
+    "car_side_number": "3351198",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-6591",
+    "car_side_number": "1552074",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-7213",
+    "car_side_number": "3351202",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-8982",
+    "car_side_number": "3352167",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5356",
+    "car_side_number": "3321074",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5355",
+    "car_side_number": "3321073",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7872",
+    "car_side_number": "2251404",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-5359",
+    "car_side_number": "3321077",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5414",
+    "car_side_number": "4521130",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7877",
+    "car_side_number": "2251409",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4742",
+    "car_side_number": "0321028",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-7567",
+    "car_side_number": "3322001",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-4782",
+    "car_side_number": "2221063",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4787",
+    "car_side_number": "2221068",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4785",
+    "car_side_number": "2221066",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-7224",
+    "car_side_number": "3351213",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5526",
+    "car_side_number": "3351013",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7223",
+    "car_side_number": "3351212",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-4774",
+    "car_side_number": "2121055",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-8296",
+    "car_side_number": "1622145",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-9794",
+    "car_side_number": "5152275",
+    "district": "Department of Environment, Bangkok Metropolitan Administration"
+  },
+  {
+    "vehicle_id": "65-4732",
+    "car_side_number": "4821019",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-7944",
+    "car_side_number": "3752127",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8241",
+    "car_side_number": "1422109",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-3013",
+    "car_side_number": "1220050",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-7945",
+    "car_side_number": "3252128",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7758",
+    "car_side_number": "2051344",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-6589",
+    "car_side_number": "1452072",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-6585",
+    "car_side_number": "1452068",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-7787",
+    "car_side_number": "1951367",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-5631",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-7953",
+    "car_side_number": "3252134",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7954",
+    "car_side_number": "3252135",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-8226",
+    "car_side_number": "4322081",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-5384",
+    "car_side_number": "1121101",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-3017",
+    "car_side_number": "3120054",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-7983",
+    "car_side_number": "1452163",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-5360",
+    "car_side_number": "3321078",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7281",
+    "car_side_number": "3951270",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-8224",
+    "car_side_number": "4622079",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-4721",
+    "car_side_number": "3621009",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-6576",
+    "car_side_number": "0552059",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-5398",
+    "car_side_number": "3421115",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7861",
+    "car_side_number": "2151393",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-7279",
+    "car_side_number": "3951268",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-7961",
+    "car_side_number": "3252142",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7636",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-2425",
+    "car_side_number": "2650083",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-7951",
+    "car_side_number": "3252132",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-8266",
+    "car_side_number": "3222164",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-2990",
+    "car_side_number": "3220030",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7963",
+    "car_side_number": "3252144",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-4767",
+    "car_side_number": "2121051",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-8985",
+    "car_side_number": "4652170",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7251",
+    "car_side_number": "1051240",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-5595",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-8315",
+    "car_side_number": "2922166",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-8316",
+    "car_side_number": "2922167",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-7952",
+    "car_side_number": "3252133",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7029",
+    "car_side_number": "0151160",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-3012",
+    "car_side_number": "2620049",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9734",
+    "car_side_number": "2652219",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-3291",
+    "car_side_number": "3209069",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-9021",
+    "car_side_number": "1552201",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-5651",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-2196",
+    "car_side_number": "2620006",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5415",
+    "car_side_number": "4521131",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-9813",
+    "car_side_number": "1552290",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-8332",
+    "car_side_number": "2122183",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-9814",
+    "car_side_number": "1552291",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7468",
+    "car_side_number": "2652084",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-8318",
+    "car_side_number": "2922169",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-7720",
+    "car_side_number": "4751330",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9786",
+    "car_side_number": "5152268",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7725",
+    "car_side_number": "4751334",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-7244",
+    "car_side_number": "3451233",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-2993",
+    "car_side_number": "3220032",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7271",
+    "car_side_number": "3951260",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-4749",
+    "car_side_number": "4021035",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8319",
+    "car_side_number": "2922170",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-2988",
+    "car_side_number": "3220028",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-2429",
+    "car_side_number": "2650087",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7248",
+    "car_side_number": "3451237",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7788",
+    "car_side_number": "1951368",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7250",
+    "car_side_number": "3451239",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-9754",
+    "car_side_number": "2952239",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-2427",
+    "car_side_number": "2650085",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-7939",
+    "car_side_number": "3252122",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7724",
+    "car_side_number": "4751333",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-7228",
+    "car_side_number": "3751217",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-6582",
+    "car_side_number": "0552065",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7019",
+    "car_side_number": "0151150",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7291",
+    "car_side_number": "3951280",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-5657",
+    "car_side_number": "0552022",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7216",
+    "car_side_number": "3351205",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-6563",
+    "car_side_number": "4952047",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-6577",
+    "car_side_number": "0552060",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7230",
+    "car_side_number": "3751219",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-5660",
+    "car_side_number": "0552025",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7706",
+    "car_side_number": "1151319",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-3109",
+    "car_side_number": "0550161",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-3108",
+    "car_side_number": "0550160",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-3009",
+    "car_side_number": "4620046",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-8314",
+    "car_side_number": "",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "65-4714",
+    "car_side_number": "1776002",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-7760",
+    "car_side_number": "2051346",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-2213",
+    "car_side_number": "2520008",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7030",
+    "car_side_number": "0151161",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-6583",
+    "car_side_number": "0552066",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-8261",
+    "car_side_number": "1522131",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7493",
+    "car_side_number": "0552108",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-2985",
+    "car_side_number": "0520025",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-9757",
+    "car_side_number": "2952242",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-9819",
+    "car_side_number": "1552296",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-2411",
+    "car_side_number": "3750072",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8289",
+    "car_side_number": "4922138",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-7470",
+    "car_side_number": "2652085",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-3002",
+    "car_side_number": "4220039",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7701",
+    "car_side_number": "1151314",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-2380",
+    "car_side_number": "3750048",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-4719",
+    "car_side_number": "3621007",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-7466",
+    "car_side_number": "4652081",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5417",
+    "car_side_number": "4521133",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-2409",
+    "car_side_number": "4250071",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3116",
+    "car_side_number": "4250167",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-9758",
+    "car_side_number": "2952243",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-5569",
+    "car_side_number": "4551054",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-2337",
+    "car_side_number": "2550006",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "53-7663",
+    "car_side_number": "",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5406",
+    "car_side_number": "3221123",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7946",
+    "car_side_number": "3252129",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5408",
+    "car_side_number": "3221125",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "53-8915",
+    "car_side_number": "",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5324",
+    "car_side_number": "3281108",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5532",
+    "car_side_number": "1151019",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9759",
+    "car_side_number": "2952244",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-9756",
+    "car_side_number": "3952241",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7785",
+    "car_side_number": "1951365",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-5571",
+    "car_side_number": "4551056",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7699",
+    "car_side_number": "1151312",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7305",
+    "car_side_number": "0951294",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-5607",
+    "car_side_number": "4451091",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-7300",
+    "car_side_number": "0951289",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-7035",
+    "car_side_number": "0151166",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-7700",
+    "car_side_number": "1151313",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7225",
+    "car_side_number": "1151214",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-2417",
+    "car_side_number": "4250076",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7703",
+    "car_side_number": "1151317",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7704",
+    "car_side_number": "1151318",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7705",
+    "car_side_number": "1151315",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9751",
+    "car_side_number": "2952236",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-3118",
+    "car_side_number": "4250169",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-9800",
+    "car_side_number": "1152278",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-5572",
+    "car_side_number": "4551057",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7021",
+    "car_side_number": "0151152",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-6988",
+    "car_side_number": "1851121",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-5382",
+    "car_side_number": "1121099",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-5381",
+    "car_side_number": "1121098",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-5383",
+    "car_side_number": "1121100",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9810",
+    "car_side_number": "4452287",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-6987",
+    "car_side_number": "1851120",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-2408",
+    "car_side_number": "4250070",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-9762",
+    "car_side_number": "2952247",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-9815",
+    "car_side_number": "1552292",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-9807",
+    "car_side_number": "4552284",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7297",
+    "car_side_number": "0951286",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-9817",
+    "car_side_number": "1552294",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-9818",
+    "car_side_number": "1552295",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-2396",
+    "car_side_number": "2750063",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-2413",
+    "car_side_number": "4250073",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-2416",
+    "car_side_number": "4250075",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-6986",
+    "car_side_number": "1951119",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-3021",
+    "car_side_number": "4520058",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7591",
+    "car_side_number": "1122025",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-8242",
+    "car_side_number": "1422110",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-5670",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-2392",
+    "car_side_number": "2750060",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-5561",
+    "car_side_number": "1351046",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-7589",
+    "car_side_number": "1922023",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-2332",
+    "car_side_number": "2550002",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-8247",
+    "car_side_number": "1522115",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-3105",
+    "car_side_number": "3750157",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7620",
+    "car_side_number": "",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-3073",
+    "car_side_number": "3750127",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7601",
+    "car_side_number": "3122035",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-3115",
+    "car_side_number": "4250166",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-2420",
+    "car_side_number": "3750079",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-2348",
+    "car_side_number": "",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-8249",
+    "car_side_number": "1522117",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-7499",
+    "car_side_number": "0652114",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7294",
+    "car_side_number": "3451283",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-8264",
+    "car_side_number": "1522134",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-5573",
+    "car_side_number": "4551058",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-3120",
+    "car_side_number": "4250170",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-7592",
+    "car_side_number": "1122026",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9020",
+    "car_side_number": "5152200",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-8286",
+    "car_side_number": "3622135",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-7312",
+    "car_side_number": "3451301",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7870",
+    "car_side_number": "4051402",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-6561",
+    "car_side_number": "4952045",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-8270",
+    "car_side_number": "3122093",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-7863",
+    "car_side_number": "5051395",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-7570",
+    "car_side_number": "4622004",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-2192",
+    "car_side_number": "2620002",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7853",
+    "car_side_number": "5051386",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-5630",
+    "car_side_number": "2652001",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-2402",
+    "car_side_number": "4250067",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-2365",
+    "car_side_number": "1250034",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-3106",
+    "car_side_number": "1250158",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5575",
+    "car_side_number": "4551060",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-5530",
+    "car_side_number": "1151017",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-4744",
+    "car_side_number": "4021030",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7295",
+    "car_side_number": "3451284",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7258",
+    "car_side_number": "1051247",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-2194",
+    "car_side_number": "2620004",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-6995",
+    "car_side_number": "3551127",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-7754",
+    "car_side_number": "3451340",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7759",
+    "car_side_number": "2051345",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-7947",
+    "car_side_number": "3752130",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-6997",
+    "car_side_number": "3551128",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-6573",
+    "car_side_number": "1952057",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-9752",
+    "car_side_number": "1552237",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-7789",
+    "car_side_number": "1951369",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-2422",
+    "car_side_number": "2650081",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-7950",
+    "car_side_number": "3752131",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-7761",
+    "car_side_number": "2051347",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-7956",
+    "car_side_number": "3752137",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-4727",
+    "car_side_number": "",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-7501",
+    "car_side_number": "0652116",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-9018",
+    "car_side_number": "0652198",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-9745",
+    "car_side_number": "0652230",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-2375",
+    "car_side_number": "4150044",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-3079",
+    "car_side_number": "0850133",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-3103",
+    "car_side_number": "0150155",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-9744",
+    "car_side_number": "0652229",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-8283",
+    "car_side_number": "0622107",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7307",
+    "car_side_number": "0951296",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-8229",
+    "car_side_number": "2622084",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-3034",
+    "car_side_number": "2650092",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5368",
+    "car_side_number": "4321086",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-3098",
+    "car_side_number": "4650152",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-3080",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-2346",
+    "car_side_number": "2550015",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7854",
+    "car_side_number": "5051387",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3081",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-7633",
+    "car_side_number": "4522067",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7968",
+    "car_side_number": "3652149",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-8996",
+    "car_side_number": "3252178",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7007",
+    "car_side_number": "3551138",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-7003",
+    "car_side_number": "3551134",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-7002",
+    "car_side_number": "3551133",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-5370",
+    "car_side_number": "4321088",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-6998",
+    "car_side_number": "3551129",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-3087",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-7005",
+    "car_side_number": "3551136",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-2343",
+    "car_side_number": "2550012",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-3089",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-8279",
+    "car_side_number": "0622104",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-6570",
+    "car_side_number": "1952054",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7004",
+    "car_side_number": "3551135",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-5231",
+    "car_side_number": "1981017",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-5248",
+    "car_side_number": "0481034",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-3318",
+    "car_side_number": "0409051",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-4766",
+    "car_side_number": "3521050",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-4760",
+    "car_side_number": "3521045",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-4759",
+    "car_side_number": "3521044",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-3093",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-7008",
+    "car_side_number": "3551139",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-8236",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-6572",
+    "car_side_number": "1952056",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-3043",
+    "car_side_number": "3150100",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-2360",
+    "car_side_number": "1250029",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-2362",
+    "car_side_number": "1250031",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-2361",
+    "car_side_number": "1250030",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-7975",
+    "car_side_number": "3652156",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-2357",
+    "car_side_number": "1250026",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5436",
+    "car_side_number": "0921151",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-2376",
+    "car_side_number": "3750045",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-2341",
+    "car_side_number": "2550010",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-4733",
+    "car_side_number": "1921020",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-4761",
+    "car_side_number": "3521046",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-2350",
+    "car_side_number": "1250019",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5577",
+    "car_side_number": "4551062",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7001",
+    "car_side_number": "3551132",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-7596",
+    "car_side_number": "1222030",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-6999",
+    "car_side_number": "3551130",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-7006",
+    "car_side_number": "3551137",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-2406",
+    "car_side_number": "4250069",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3049",
+    "car_side_number": "3150105",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5425",
+    "car_side_number": "3921141",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-2419",
+    "car_side_number": "4250078",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-8298",
+    "car_side_number": "1922147",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-5578",
+    "car_side_number": "4551063",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-8302",
+    "car_side_number": "1922151",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-4750",
+    "car_side_number": "4021036",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7867",
+    "car_side_number": "4051399",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-2351",
+    "car_side_number": "1250020",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7786",
+    "car_side_number": "1951366",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7879",
+    "car_side_number": "4051410",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-9809",
+    "car_side_number": "4452286",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-2400",
+    "car_side_number": "4250066",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7883",
+    "car_side_number": "4051413",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7885",
+    "car_side_number": "4051415",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-9755",
+    "car_side_number": "2952240",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-6994",
+    "car_side_number": "4051126",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7886",
+    "car_side_number": "4051416",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-9735",
+    "car_side_number": "2652220",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-4747",
+    "car_side_number": "4021033",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-5363",
+    "car_side_number": "3321081",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-3322",
+    "car_side_number": "4209090",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-3302",
+    "car_side_number": "4209091",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7264",
+    "car_side_number": "1451253",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2205",
+    "car_side_number": "2720015",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9803",
+    "car_side_number": "1452281",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-4755",
+    "car_side_number": "5021041",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7884",
+    "car_side_number": "4051414",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7041",
+    "car_side_number": "0151172",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-4718",
+    "car_side_number": "3621006",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-8258",
+    "car_side_number": "4422128",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-8329",
+    "car_side_number": "4022180",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-4716",
+    "car_side_number": "1721004",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-2418",
+    "car_side_number": "4250077",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7876",
+    "car_side_number": "2251408",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-6965",
+    "car_side_number": "3651099",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-6588",
+    "car_side_number": "1452071",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-6560",
+    "car_side_number": "4952044",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-7977",
+    "car_side_number": "3652158",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-7265",
+    "car_side_number": "1451254",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-8277",
+    "car_side_number": "0422100",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-9017",
+    "car_side_number": "0452197",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-5606",
+    "car_side_number": "4451090",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-7503",
+    "car_side_number": "4452118",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-7287",
+    "car_side_number": "3951276",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3091",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-9016",
+    "car_side_number": "2352196",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-3040",
+    "car_side_number": "3150097",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5576",
+    "car_side_number": "4551061",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-8995",
+    "car_side_number": "0552177",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-6565",
+    "car_side_number": "4952049",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-6566",
+    "car_side_number": "4952050",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-7613",
+    "car_side_number": "",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "67-7614",
+    "car_side_number": "0222048",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-3262",
+    "car_side_number": "2709079",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7275",
+    "car_side_number": "3951264",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7037",
+    "car_side_number": "0151168",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "65-4737",
+    "car_side_number": "1821024",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-6989",
+    "car_side_number": "1851122",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-3010",
+    "car_side_number": "4320047",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-8271",
+    "car_side_number": "3122094",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-5579",
+    "car_side_number": "4551064",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7962",
+    "car_side_number": "3252143",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-3082",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-8254",
+    "car_side_number": "3922124",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-6564",
+    "car_side_number": "4952048",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "65-7218",
+    "car_side_number": "3351207",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-3084",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-3065",
+    "car_side_number": "1850120",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-3086",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-7490",
+    "car_side_number": "0452105",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-6977",
+    "car_side_number": "1651110",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-5564",
+    "car_side_number": "1351049",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-5371",
+    "car_side_number": "3721089",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-3112",
+    "car_side_number": "2756013",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-7584",
+    "car_side_number": "",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "65-5372",
+    "car_side_number": "3721090",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-2195",
+    "car_side_number": "2620005",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-3051",
+    "car_side_number": "3150107",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "67-7619",
+    "car_side_number": "2122053",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-7816",
+    "car_side_number": "4051377",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-3303",
+    "car_side_number": "2709077",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-5581",
+    "car_side_number": "4551066",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-4756",
+    "car_side_number": "3521042",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-7304",
+    "car_side_number": "0951293",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-9011",
+    "car_side_number": "2052191",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-5608",
+    "car_side_number": "1551092",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-9820",
+    "car_side_number": "1552297",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-7053",
+    "car_side_number": "0351184",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-2339",
+    "car_side_number": "2550008",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7000",
+    "car_side_number": "3551131",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-6964",
+    "car_side_number": "3651098",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-5658",
+    "car_side_number": "0552023",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-8285",
+    "car_side_number": "2922125",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-8243",
+    "car_side_number": "1422111",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-5516",
+    "car_side_number": "3351003",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-4762",
+    "car_side_number": "3521047",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-3090",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-5411",
+    "car_side_number": "4521127",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7046",
+    "car_side_number": "2151177",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "67-9731",
+    "car_side_number": "4352216",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-9782",
+    "car_side_number": "2352265",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "53-8261",
+    "car_side_number": "",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7986",
+    "car_side_number": "2552166",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-3011",
+    "car_side_number": "2620048",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-6584",
+    "car_side_number": "1452067",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-7298",
+    "car_side_number": "0951287",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-4723",
+    "car_side_number": "",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-5369",
+    "car_side_number": "",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-4746",
+    "car_side_number": "4021032",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8312",
+    "car_side_number": "0122161",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-5678",
+    "car_side_number": "4552040",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7622",
+    "car_side_number": "1322056",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-9785",
+    "car_side_number": "2352267",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9749",
+    "car_side_number": "0652234",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-7599",
+    "car_side_number": "4022033",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7310",
+    "car_side_number": "0951299",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-9003",
+    "car_side_number": "1752183",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-2404",
+    "car_side_number": "4250068",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3100",
+    "car_side_number": "2650153",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-7774",
+    "car_side_number": "4851355",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-3075",
+    "car_side_number": "0750129",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-7717",
+    "car_side_number": "4751327",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-5416",
+    "car_side_number": "4521132",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-3062",
+    "car_side_number": "0750118",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-7309",
+    "car_side_number": "0951298",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-3067",
+    "car_side_number": "0750121",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-8288",
+    "car_side_number": "0722137",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-9805",
+    "car_side_number": "4552283",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-5605",
+    "car_side_number": "4451089",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "65-5580",
+    "car_side_number": "4551065",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7600",
+    "car_side_number": "4022034",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-9808",
+    "car_side_number": "4552285",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-6597",
+    "car_side_number": "1552079",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "67-2398",
+    "car_side_number": "2750064",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-5435",
+    "car_side_number": "0921150",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-3071",
+    "car_side_number": "0750125",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-7262",
+    "car_side_number": "1051251",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "67-3055",
+    "car_side_number": "0750111",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3056",
+    "car_side_number": "0750112",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-2208",
+    "car_side_number": "0720018",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-7875",
+    "car_side_number": "2251407",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-3078",
+    "car_side_number": "0750132",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3059",
+    "car_side_number": "0750115",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3060",
+    "car_side_number": "0750116",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3061",
+    "car_side_number": "0750117",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3063",
+    "car_side_number": "0750119",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3068",
+    "car_side_number": "0750122",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3069",
+    "car_side_number": "0750123",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3074",
+    "car_side_number": "0750128",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3072",
+    "car_side_number": "0750126",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-4765",
+    "car_side_number": "3521049",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-3076",
+    "car_side_number": "0750130",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-3077",
+    "car_side_number": "0750131",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-7580",
+    "car_side_number": "0722014",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-4739",
+    "car_side_number": "1821026",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "65-7055",
+    "car_side_number": "2251186",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-2344",
+    "car_side_number": "2550013",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-5386",
+    "car_side_number": "1121103",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-4715",
+    "car_side_number": "1721003",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-4741",
+    "car_side_number": "1821027",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-2354",
+    "car_side_number": "1250023",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-7984",
+    "car_side_number": "1452164",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2358",
+    "car_side_number": "1250027",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-6990",
+    "car_side_number": "2351123",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5392",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-9773",
+    "car_side_number": "1452258",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2352",
+    "car_side_number": "1250021",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7851",
+    "car_side_number": "5051384",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7840",
+    "car_side_number": "5051379",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-9783",
+    "car_side_number": "2352266",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-8232",
+    "car_side_number": "1222087",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5597",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-5574",
+    "car_side_number": "4551059",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-2430",
+    "car_side_number": "2650088",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-8234",
+    "car_side_number": "1222089",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7058",
+    "car_side_number": "2251189",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-7882",
+    "car_side_number": "4051412",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-2381",
+    "car_side_number": "4150049",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-8305",
+    "car_side_number": "4022154",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-7643",
+    "car_side_number": "4122077",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "65-5362",
+    "car_side_number": "3321080",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5429",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-5524",
+    "car_side_number": "3351011",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-3125",
+    "car_side_number": "4150175",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-2382",
+    "car_side_number": "4150050",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-2384",
+    "car_side_number": "4150052",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-3126",
+    "car_side_number": "4150176",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-2377",
+    "car_side_number": "4150046",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "65-7207",
+    "car_side_number": "3351196",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-5636",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-8231",
+    "car_side_number": "2622086",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5390",
+    "car_side_number": "4721107",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-7208",
+    "car_side_number": "3351197",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-9742",
+    "car_side_number": "2352227",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7049",
+    "car_side_number": "2251180",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4770",
+    "car_side_number": "",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-5528",
+    "car_side_number": "1151015",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7639",
+    "car_side_number": "",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-3022",
+    "car_side_number": "4520059",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-5439",
+    "car_side_number": "0921153",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "65-4743",
+    "car_side_number": "0321029",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-5652",
+    "car_side_number": "0452017",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8287",
+    "car_side_number": "3622136",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-7477",
+    "car_side_number": "0452092",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7484",
+    "car_side_number": "0452099",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8227",
+    "car_side_number": "4322082",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-7050",
+    "car_side_number": "0351181",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-2373",
+    "car_side_number": "4150042",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "65-5517",
+    "car_side_number": "3351004",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-4735",
+    "car_side_number": "1821022",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-7485",
+    "car_side_number": "0452100",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8228",
+    "car_side_number": "4322083",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-8248",
+    "car_side_number": "1522116",
+    "district": "Nong Chok"
+  },
+  {
+    "vehicle_id": "65-7299",
+    "car_side_number": "0951288",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-2199",
+    "car_side_number": "2520009",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7051",
+    "car_side_number": "0351182",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-8223",
+    "car_side_number": "3322078",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-8993",
+    "car_side_number": "4352175",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-8273",
+    "car_side_number": "0422096",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-6967",
+    "car_side_number": "2051101",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-8278",
+    "car_side_number": "0422101",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-3094",
+    "car_side_number": "4650148",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-5357",
+    "car_side_number": "3321075",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-9748",
+    "car_side_number": "3752233",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-5297",
+    "car_side_number": "3081082",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-2197",
+    "car_side_number": "2520007",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-5531",
+    "car_side_number": "1151018",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7590",
+    "car_side_number": "1822024",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-2340",
+    "car_side_number": "2550009",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-2345",
+    "car_side_number": "2550014",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "65-7811",
+    "car_side_number": "4051375",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8311",
+    "car_side_number": "0222160",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-5583",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-5586",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7727",
+    "car_side_number": "4751335",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-7483",
+    "car_side_number": "0452098",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-2374",
+    "car_side_number": "4150043",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-7479",
+    "car_side_number": "0452094",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-9791",
+    "car_side_number": "0452272",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7474",
+    "car_side_number": "0452089",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-7236",
+    "car_side_number": "4751225",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-7273",
+    "car_side_number": "3951262",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-5409",
+    "car_side_number": "4521126",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-7478",
+    "car_side_number": "0452093",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-8280",
+    "car_side_number": "0622105",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-5388",
+    "car_side_number": "4721105",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-7480",
+    "car_side_number": "0452095",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7488",
+    "car_side_number": "0452103",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7476",
+    "car_side_number": "0452091",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "67-7475",
+    "car_side_number": "0452090",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-5423",
+    "car_side_number": "3921139",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7803",
+    "car_side_number": "2351374",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7238",
+    "car_side_number": "5051227",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7698",
+    "car_side_number": "1151311",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-8290",
+    "car_side_number": "4922139",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-7576",
+    "car_side_number": "3722010",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7577",
+    "car_side_number": "3722011",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8299",
+    "car_side_number": "1922148",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-8310",
+    "car_side_number": "0222159",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-4780",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-5589",
+    "car_side_number": "3851074",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-7017",
+    "car_side_number": "2351148",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-7969",
+    "car_side_number": "3652150",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-5677",
+    "car_side_number": "4552039",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "67-6568",
+    "car_side_number": "4952052",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-9774",
+    "car_side_number": "1452259",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-8303",
+    "car_side_number": "2322152",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-7598",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-5598",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-9015",
+    "car_side_number": "2352195",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9014",
+    "car_side_number": "2352194",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-5632",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "65-5567",
+    "car_side_number": "1351052",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-5399",
+    "car_side_number": "3421116",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "67-9767",
+    "car_side_number": "2952252",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-6981",
+    "car_side_number": "1651114",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-5600",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-3110",
+    "car_side_number": "3750162",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8333",
+    "car_side_number": "2922184",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-7887",
+    "car_side_number": "4051417",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-2987",
+    "car_side_number": "3220027",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7730",
+    "car_side_number": "4751338",
+    "district": "Prawet"
+  },
+  {
+    "vehicle_id": "65-7771",
+    "car_side_number": "2351352",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-5667",
+    "car_side_number": "2452030",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-2206",
+    "car_side_number": "0720016",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-2369",
+    "car_side_number": "4650038",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-8265",
+    "car_side_number": "3222163",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7578",
+    "car_side_number": "3722012",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-3253",
+    "car_side_number": "3209071",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7579",
+    "car_side_number": "3722013",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "65-7278",
+    "car_side_number": "3951267",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-7638",
+    "car_side_number": "4422072",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-2372",
+    "car_side_number": "4150041",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-7506",
+    "car_side_number": "0952121",
+    "district": "Huai Khwang"
+  },
+  {
+    "vehicle_id": "67-2989",
+    "car_side_number": "3220029",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7940",
+    "car_side_number": "3252123",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-3121",
+    "car_side_number": "4250171",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-7972",
+    "car_side_number": "3652153",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-7716",
+    "car_side_number": "4751327",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-9768",
+    "car_side_number": "2952253",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-8317",
+    "car_side_number": "2922168",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-7849",
+    "car_side_number": "5051382",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-6970",
+    "car_side_number": "2051103",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-7226",
+    "car_side_number": "3351215",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-8252",
+    "car_side_number": "1122120",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9766",
+    "car_side_number": "2952251",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-2383",
+    "car_side_number": "3750051",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-7573",
+    "car_side_number": "3622007",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-7315",
+    "car_side_number": "5151304",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "65-4778",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-5426",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "65-5433",
+    "car_side_number": "4421149",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-7571",
+    "car_side_number": "2622005",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9781",
+    "car_side_number": "2352264",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5557",
+    "car_side_number": "1351042",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-6579",
+    "car_side_number": "0552062",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-2984",
+    "car_side_number": "0520024",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-4730",
+    "car_side_number": "4821017",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-5585",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-7593",
+    "car_side_number": "2322027",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-6993",
+    "car_side_number": "2351125",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9738",
+    "car_side_number": "2352223",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-5671",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-7782",
+    "car_side_number": "2351362",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-5422",
+    "car_side_number": "3921138",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3000",
+    "car_side_number": "4120037",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-7635",
+    "car_side_number": "3922069",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7018",
+    "car_side_number": "2351149",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-7498",
+    "car_side_number": "0652113",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7865",
+    "car_side_number": "5051397",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3003",
+    "car_side_number": "4220040",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-7495",
+    "car_side_number": "0552110",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7282",
+    "car_side_number": "3951271",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3004",
+    "car_side_number": "4220041",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-3113",
+    "car_side_number": "3950164",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-9031",
+    "car_side_number": "5152211",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-5521",
+    "car_side_number": "",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-5662",
+    "car_side_number": "0552027",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-8235",
+    "car_side_number": "0522102",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-8255",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-7982",
+    "car_side_number": "3652162",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-8320",
+    "car_side_number": "2922171",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-7772",
+    "car_side_number": "4851353",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-7215",
+    "car_side_number": "3351204",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-3024",
+    "car_side_number": "4220061",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-7769",
+    "car_side_number": "2351351",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-2996",
+    "car_side_number": "1220034",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-4729",
+    "car_side_number": "4821016",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-2986",
+    "car_side_number": "0520026",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7781",
+    "car_side_number": "2351361",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7039",
+    "car_side_number": "0151170",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-2347",
+    "car_side_number": "",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "67-7981",
+    "car_side_number": "3652161",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-4713",
+    "car_side_number": "1721001",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-5405",
+    "car_side_number": "1321122",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "67-2378",
+    "car_side_number": "4150047",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-3001",
+    "car_side_number": "4120038",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-8250",
+    "car_side_number": "4122118",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "65-7773",
+    "car_side_number": "4851354",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-2359",
+    "car_side_number": "1250028",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-7054",
+    "car_side_number": "0351185",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-7568",
+    "car_side_number": "1722002",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-7976",
+    "car_side_number": "3652157",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-7973",
+    "car_side_number": "3652154",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "67-9764",
+    "car_side_number": "2952249",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-3020",
+    "car_side_number": "2720057",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "67-9792",
+    "car_side_number": "1452273",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-2353",
+    "car_side_number": "1250022",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5549",
+    "car_side_number": "",
+    "district": "Bueng Kum"
+  },
+  {
+    "vehicle_id": "67-7943",
+    "car_side_number": "3752126",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-6586",
+    "car_side_number": "1452069",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-3092",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-9772",
+    "car_side_number": "1452257",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-4736",
+    "car_side_number": "1821023",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-2998",
+    "car_side_number": "4120036",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-3124",
+    "car_side_number": "4150174",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-6558",
+    "car_side_number": "4652042",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "65-7266",
+    "car_side_number": "1451255",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-9795",
+    "car_side_number": "1152276",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "52-0223",
+    "car_side_number": "",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-2997",
+    "car_side_number": "1220035",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "53-8922",
+    "car_side_number": "",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-7978",
+    "car_side_number": "3652159",
+    "district": "Chom Thong"
+  },
+  {
+    "vehicle_id": "65-5377",
+    "car_side_number": "3721094",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-2212",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "67-3035",
+    "car_side_number": "2650093",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9023",
+    "car_side_number": "5152203",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "65-4751",
+    "car_side_number": "",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3047",
+    "car_side_number": "3150103",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-4752",
+    "car_side_number": "5021038",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-9765",
+    "car_side_number": "2952250",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "67-8245",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-7574",
+    "car_side_number": "2522008",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-9727",
+    "car_side_number": "4352212",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-7575",
+    "car_side_number": "2522009",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-7958",
+    "car_side_number": "3252139",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7627",
+    "car_side_number": "1422061",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-5407",
+    "car_side_number": "3221124",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-8251",
+    "car_side_number": "1122119",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7642",
+    "car_side_number": "2222076",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4783",
+    "car_side_number": "2221064",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-4784",
+    "car_side_number": "2221065",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-8334",
+    "car_side_number": "2922185",
+    "district": "Sathorn"
+  },
+  {
+    "vehicle_id": "65-4768",
+    "car_side_number": "",
+    "district": "Phasi Charoen"
+  },
+  {
+    "vehicle_id": "65-4786",
+    "car_side_number": "2221067",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-3048",
+    "car_side_number": "3150104",
+    "district": "Bang Sue"
+  },
+  {
+    "vehicle_id": "65-3305",
+    "car_side_number": "4309009",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-7630",
+    "car_side_number": "2722064",
+    "district": "Lat Phrao"
+  },
+  {
+    "vehicle_id": "65-7274",
+    "car_side_number": "3951263",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-5673",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "67-2363",
+    "car_side_number": "1250032",
+    "district": "Bang Khen"
+  },
+  {
+    "vehicle_id": "65-5554",
+    "car_side_number": "0551040",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7711",
+    "car_side_number": "4751323",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "65-4779",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-7869",
+    "car_side_number": "4051401",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8244",
+    "car_side_number": "1422112",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "67-3122",
+    "car_side_number": "4150172",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "65-5431",
+    "car_side_number": "1621147",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6979",
+    "car_side_number": "1651112",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-7056",
+    "car_side_number": "2251187",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-6976",
+    "car_side_number": "1651109",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6971",
+    "car_side_number": "1651104",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6972",
+    "car_side_number": "1651105",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6974",
+    "car_side_number": "1651107",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6978",
+    "car_side_number": "1651111",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6982",
+    "car_side_number": "1651115",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-6983",
+    "car_side_number": "1651116",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-8992",
+    "car_side_number": "4352174",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "65-4754",
+    "car_side_number": "5021040",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-7272",
+    "car_side_number": "3951261",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-3309",
+    "car_side_number": "3509049",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-3229",
+    "car_side_number": "2509018",
+    "district": "Don Mueang"
+  },
+  {
+    "vehicle_id": "67-7957",
+    "car_side_number": "3252138",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-7582",
+    "car_side_number": "4822016",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "65-5419",
+    "car_side_number": "3921135",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-5661",
+    "car_side_number": "0552026",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-9775",
+    "car_side_number": "2052260",
+    "district": "Taling Chan"
+  },
+  {
+    "vehicle_id": "67-7569",
+    "car_side_number": "1722003",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-5374",
+    "car_side_number": "3721092",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-9804",
+    "car_side_number": "1452282",
+    "district": "Lat Krabang"
+  },
+  {
+    "vehicle_id": "65-7024",
+    "car_side_number": "0151155",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-7609",
+    "car_side_number": "0522043",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-4717",
+    "car_side_number": "1721005",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-5527",
+    "car_side_number": "1151014",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7624",
+    "car_side_number": "0622058",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-5518",
+    "car_side_number": "",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-7625",
+    "car_side_number": "0622059",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7284",
+    "car_side_number": "3951273",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-5551",
+    "car_side_number": "0551037",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-5519",
+    "car_side_number": "3351006",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-8230",
+    "car_side_number": "2622085",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9010",
+    "car_side_number": "1752190",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "67-6571",
+    "car_side_number": "1952055",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "65-7290",
+    "car_side_number": "3951279",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7276",
+    "car_side_number": "3951265",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7283",
+    "car_side_number": "3951272",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7288",
+    "car_side_number": "3951277",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-8327",
+    "car_side_number": "0822178",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-7702",
+    "car_side_number": "1151316",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-2207",
+    "car_side_number": "0720017",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-4757",
+    "car_side_number": "3521043",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "67-8326",
+    "car_side_number": "0822177",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-7842",
+    "car_side_number": "5051380",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-3023",
+    "car_side_number": "1620060",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-4775",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-7848",
+    "car_side_number": "5051381",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "65-4763",
+    "car_side_number": "3521048",
+    "district": "Bang Phlat"
+  },
+  {
+    "vehicle_id": "65-5432",
+    "car_side_number": "4421148",
+    "district": "Saphan Sung"
+  },
+  {
+    "vehicle_id": "67-7641",
+    "car_side_number": "4222075",
+    "district": "Sai Mai"
+  },
+  {
+    "vehicle_id": "67-9007",
+    "car_side_number": "1752187",
+    "district": "Khlong San"
+  },
+  {
+    "vehicle_id": "65-7707",
+    "car_side_number": "1151320",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7612",
+    "car_side_number": "0222046",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-5582",
+    "car_side_number": "4551067",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7709",
+    "car_side_number": "1151322",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-8308",
+    "car_side_number": "",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-7233",
+    "car_side_number": "4051222",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "67-8307",
+    "car_side_number": "0222156",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-7696",
+    "car_side_number": "1151310",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-7489",
+    "car_side_number": "0452104",
+    "district": "Bang Rak"
+  },
+  {
+    "vehicle_id": "65-5379",
+    "car_side_number": "1821096",
+    "district": "Bangkok Yai"
+  },
+  {
+    "vehicle_id": "67-7966",
+    "car_side_number": "3252147",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7011",
+    "car_side_number": "0251142",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "67-3054",
+    "car_side_number": "0750110",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "67-9770",
+    "car_side_number": "0352255",
+    "district": "Samphanthawong"
+  },
+  {
+    "vehicle_id": "67-9737",
+    "car_side_number": "2652222",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-9780",
+    "car_side_number": "2352263",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "65-7227",
+    "car_side_number": "1151216",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-3058",
+    "car_side_number": "0750114",
+    "district": "Dusit"
+  },
+  {
+    "vehicle_id": "65-5522",
+    "car_side_number": "3351009",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-6578",
+    "car_side_number": "0552061",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-5552",
+    "car_side_number": "0551038",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-7608",
+    "car_side_number": "0522042",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-7942",
+    "car_side_number": "3752125",
+    "district": "Din Daeng"
+  },
+  {
+    "vehicle_id": "67-8281",
+    "car_side_number": "0622106",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-4777",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-7873",
+    "car_side_number": "2251405",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-5656",
+    "car_side_number": "0552021",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-5550",
+    "car_side_number": "0551036",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-9019",
+    "car_side_number": "0652199",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-7871",
+    "car_side_number": "2251403",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-7496",
+    "car_side_number": "0652111",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-9790",
+    "car_side_number": "0652271",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-5556",
+    "car_side_number": "1351041",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-7015",
+    "car_side_number": "0251146",
+    "district": "Pom Prap Sattru Phai"
+  },
+  {
+    "vehicle_id": "65-7820",
+    "car_side_number": "4051378",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-7874",
+    "car_side_number": "2251406",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-7494",
+    "car_side_number": "0552109",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-8323",
+    "car_side_number": "5122174",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-9747",
+    "car_side_number": "0652232",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "65-6973",
+    "car_side_number": "1651106",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-7235",
+    "car_side_number": "4051224",
+    "district": "Bang Khae"
+  },
+  {
+    "vehicle_id": "65-6975",
+    "car_side_number": "1651108",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-5412",
+    "car_side_number": "4521128",
+    "district": "Wang Thonglang"
+  },
+  {
+    "vehicle_id": "65-7791",
+    "car_side_number": "1951371",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-7587",
+    "car_side_number": "1922021",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-9798",
+    "car_side_number": "1152277",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "67-9741",
+    "car_side_number": "2352226",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-9789",
+    "car_side_number": "0652270",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-7585",
+    "car_side_number": "1622019",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "67-7492",
+    "car_side_number": "0552107",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-9750",
+    "car_side_number": "0652235",
+    "district": "Yan Nawa"
+  },
+  {
+    "vehicle_id": "67-5654",
+    "car_side_number": "0552019",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-7955",
+    "car_side_number": "3252136",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-6968",
+    "car_side_number": "1351102",
+    "district": "Minburi"
+  },
+  {
+    "vehicle_id": "65-7708",
+    "car_side_number": "1151321",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-7270",
+    "car_side_number": "3951259",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-3123",
+    "car_side_number": "4150173",
+    "district": "Lak Si"
+  },
+  {
+    "vehicle_id": "67-7491",
+    "car_side_number": "0552106",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "65-7222",
+    "car_side_number": "3351211",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-8986",
+    "car_side_number": "4352171",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-9788",
+    "car_side_number": "5152269",
+    "district": "Thawi Watthana"
+  },
+  {
+    "vehicle_id": "67-2982",
+    "car_side_number": "0520022",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-2994",
+    "car_side_number": "3220033",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-6559",
+    "car_side_number": "4952043",
+    "district": "Thung Khru"
+  },
+  {
+    "vehicle_id": "67-8322",
+    "car_side_number": "5122173",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-7729",
+    "car_side_number": "4751337",
+    "district": "Bangna"
+  },
+  {
+    "vehicle_id": "67-2991",
+    "car_side_number": "3220031",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-5424",
+    "car_side_number": "3921140",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-7965",
+    "car_side_number": "3252146",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "67-2210",
+    "car_side_number": "",
+    "district": "Phaya Thai"
+  },
+  {
+    "vehicle_id": "65-5525",
+    "car_side_number": "3351012",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "67-7616",
+    "car_side_number": "1022050",
+    "district": "Phra Khanong"
+  },
+  {
+    "vehicle_id": "65-5418",
+    "car_side_number": "3921134",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "65-7025",
+    "car_side_number": "0151156",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-8324",
+    "car_side_number": "5122175",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "67-7959",
+    "car_side_number": "3252140",
+    "district": "Ratchathewi"
+  },
+  {
+    "vehicle_id": "65-7027",
+    "car_side_number": "0151158",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-9029",
+    "car_side_number": "5152209",
+    "district": "Khlong Sam Wa"
+  },
+  {
+    "vehicle_id": "67-7603",
+    "car_side_number": "5022037",
+    "district": "Bang Bon"
+  },
+  {
+    "vehicle_id": "67-8293",
+    "car_side_number": "1622142",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-4781",
+    "car_side_number": "2221062",
+    "district": "Nong Khaem"
+  },
+  {
+    "vehicle_id": "65-5421",
+    "car_side_number": "3921137",
+    "district": "Watthana"
+  },
+  {
+    "vehicle_id": "67-8301",
+    "car_side_number": "1922150",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-9027",
+    "car_side_number": "5152207",
+    "district": "Bang Khun Thian"
+  },
+  {
+    "vehicle_id": "67-5655",
+    "car_side_number": "0552020",
+    "district": "Pathumwan"
+  },
+  {
+    "vehicle_id": "67-3104",
+    "car_side_number": "0150156",
+    "district": "Phra Nakhon"
+  },
+  {
+    "vehicle_id": "67-5635",
+    "car_side_number": "",
+    "district": "Bang Kho Laem"
+  },
+  {
+    "vehicle_id": "67-6569",
+    "car_side_number": "1952053",
+    "district": "Bangkok Noi"
+  },
+  {
+    "vehicle_id": "67-7471",
+    "car_side_number": "2652086",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "65-5520",
+    "car_side_number": "3351007",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5523",
+    "car_side_number": "3351010",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-7220",
+    "car_side_number": "3351209",
+    "district": "Khlong Toei"
+  },
+  {
+    "vehicle_id": "65-5286",
+    "car_side_number": "4381071",
+    "district": "Khan Na Yao"
+  },
+  {
+    "vehicle_id": "67-9028",
+    "car_side_number": "1152208",
+    "district": "Bang Kapi"
+  },
+  {
+    "vehicle_id": "65-6980",
+    "car_side_number": "1651113",
+    "district": "Thonburi"
+  },
+  {
+    "vehicle_id": "65-4776",
+    "car_side_number": "",
+    "district": "Rat Burana"
+  },
+  {
+    "vehicle_id": "65-5430",
+    "car_side_number": "",
+    "district": "Suan Luang"
+  },
+  {
+    "vehicle_id": "67-3032",
+    "car_side_number": "2650090",
+    "district": "Chatuchak"
+  },
+  {
+    "vehicle_id": "67-2421",
+    "car_side_number": "2650080",
+    "district": "Chatuchak"
+  }
+]
