@@ -1,1 +1,5 @@
-data
+data/1_nodes.json
+data/1_edges.json
+data/2_vehicles.json
+data/2_workers.json
+data/3_transferred_routes.json
